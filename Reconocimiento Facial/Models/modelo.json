@@ -1,0 +1,10 @@
+{
+  "algorithm": "fisher",
+  "people": [
+    "Gabriel",
+    "Roberto"
+  ],
+  "equalize": true,
+  "threshold": 200.0,
+  "face_size": 150
+}
